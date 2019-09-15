@@ -1,0 +1,30 @@
+{	
+	"fonts": [
+        {
+            "aifont": "OpenSans-Bold",
+            "family": "Open Sans",
+            "weight": "700",
+            "style": ""
+        },
+        {
+            "aifont": "OpenSans-Light",
+            "family": "Open Sans",
+            "weight": "300",
+            "style": ""
+        },
+        {
+          "aifont": "OpenSans",
+          "family": "Open Sans",
+          "weight": "400",
+          "style": ""
+        },
+        {
+          "aifont": "OpenSans-Semibold",
+          "family": "Open Sans",
+          "weight": "600",
+          "style": ""
+        },
+    ]
+}
+
+
