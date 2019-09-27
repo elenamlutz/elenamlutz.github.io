@@ -125,7 +125,6 @@ p.note {
 	width:100%;
 	max-width:900px;
 	padding: 30px;
-	padding-left:100px;
 }
 
 .story-body .chart-section {
@@ -144,7 +143,6 @@ p.note {
 	display:block;
 	justify-content: space-evenly;
 	margin-top:20px;
-	padding-left: 220px;
 	width: 70%;
 }
 
@@ -152,7 +150,7 @@ p.note {
 	display: block;
 	margin-top:20px;
 	width: 100%;
-	padding-left: 100px;
+	padding-left: 300px
 }
 p.chart-title {
 	font-size:1.3rem;
@@ -182,7 +180,6 @@ p.chart-source {
 	width:100%;
 	max-width:900px;
 	padding: 30px;
-	padding-left:100px;
 }
 
 .chart-row2 {
