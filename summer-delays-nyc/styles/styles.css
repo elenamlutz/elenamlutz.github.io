@@ -69,7 +69,7 @@ p.kicker {
 }
 
 h1.headline {
-    font-size: 4rem;
+    font-size: 3rem;
     line-height: 1.1;
     margin-bottom: 0.25rem;
     margin-top: 1rem;
@@ -77,15 +77,15 @@ h1.headline {
 }
 
 h2.subhead {
-    font-size: 1.4rem;
-    line-height: 2rem;
+    font-size: 1rem;
+    line-height: 1.4rem;
     margin-bottom:0;
     margin-top: 15px;
     font-weight: 400;
 }
 
 p.body-text {
-    font-size: 1.1rem;
+    font-size: 1rem;
     line-height: 1.4;
  	margin-top:0;
  	margin-bottom:15px;
@@ -123,8 +123,15 @@ p.note {
 
 .chart-section {
 	width:100%;
+	max-width:1100px;
+	padding:20px 40px;
+}
+
+.chart-section2 {
+	width:100%;
 	max-width:1200px;
-	padding:20px 0px;
+	padding: 20px 30px;
+	padding-left: 180px;
 }
 
 .story-body .chart-section {
@@ -159,10 +166,9 @@ p.chart-label {
 }
 
 .chart-row .chart {
-	width:100%;
+	width:90%;
 	padding-right:15px;
 	min-width:calc(25% - 15px);
-
 }
 
 
