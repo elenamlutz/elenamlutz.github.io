@@ -6,3 +6,4 @@ Record numbers of passengers, relentless thunderstorms and multiple runway closu
 
 Tools used: Python (pandas, regular expressions), matplotlib, Seaborn, Adobe Illustrator, HTML, CSS.
 
+Check out the full story here: [https://elenamlutz.github.io/summer-delays-nyc/](https://elenamlutz.github.io/summer-delays-nyc/)
